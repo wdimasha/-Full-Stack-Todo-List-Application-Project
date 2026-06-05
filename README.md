@@ -8,7 +8,7 @@ Features
 Tech Stack
 - Java
 - Spring Boot
-- Bootstrap CSS
+- CSS
 - Thymeleaf 
 
 Project Status
